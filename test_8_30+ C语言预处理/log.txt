@@ -1,0 +1,10 @@
+file:E:\c语言代码\学习过程\test_8_30+\test.c line:22 date:Aug 30 2021 time:23:12:34 i=0
+file:E:\c语言代码\学习过程\test_8_30+\test.c line:22 date:Aug 30 2021 time:23:12:34 i=1
+file:E:\c语言代码\学习过程\test_8_30+\test.c line:22 date:Aug 30 2021 time:23:12:34 i=2
+file:E:\c语言代码\学习过程\test_8_30+\test.c line:22 date:Aug 30 2021 time:23:12:34 i=3
+file:E:\c语言代码\学习过程\test_8_30+\test.c line:22 date:Aug 30 2021 time:23:12:34 i=4
+file:E:\c语言代码\学习过程\test_8_30+\test.c line:22 date:Aug 30 2021 time:23:12:34 i=5
+file:E:\c语言代码\学习过程\test_8_30+\test.c line:22 date:Aug 30 2021 time:23:12:34 i=6
+file:E:\c语言代码\学习过程\test_8_30+\test.c line:22 date:Aug 30 2021 time:23:12:34 i=7
+file:E:\c语言代码\学习过程\test_8_30+\test.c line:22 date:Aug 30 2021 time:23:12:34 i=8
+file:E:\c语言代码\学习过程\test_8_30+\test.c line:22 date:Aug 30 2021 time:23:12:34 i=9
